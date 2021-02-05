@@ -163,7 +163,7 @@ If you exceed any of these limits, please [reach out](https://docs.pipedream.com
 
 The Pipedream platform imposes some runtime limits on sources and workflows. [Read more about those in our docs](https://docs.pipedream.com/limits/).
 
-## Getting Support
+## Getting Supports
 
 You can get help [on our public Slack](https://pipedream.com/community) or [reach out to our team directly](https://docs.pipedream.com/support/) with any questions or feedback. We'd love to hear from you!
 
